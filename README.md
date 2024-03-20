@@ -1,1 +1,1 @@
-# js_miniProjects
+# js_miniProjects.
